@@ -4,8 +4,8 @@ AI and Data Workshops 2018
 MANSEDS (Manchester Students for the Exploration and Development of Space)
 http://manseds.co.uk
 
-Descripton: Data set of two circles, one inside the other with added random Gaussian noise.
-Exercise: Classify the data points according to which circle they belong to and output in an 
+Descripton: Data set of two clouds, distributed around different points with random Gaussian noise.
+Exercise: Classify the data points according to which cloud they belong to and output in an 
           appropriate fashion.
 
 An example solution(s) is provided in a separate file
